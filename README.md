@@ -1,3 +1,3 @@
-# Project Title
+# Github for Developer course
 
 Boat :)
